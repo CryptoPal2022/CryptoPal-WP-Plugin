@@ -33,8 +33,8 @@ Download our plugin from wordpress.org, install it on your wordpress installatio
 channels with a proven track record are mailing lists, IRC channels, and forums. Also be sure to tell your more experienced users how and where to submit bugs or feature requests, possibly turning them into project participants.
 
 ### Credits (authors)
-Jorge Blanco Suarez
-Web: https://jorgewebcuba.000webhostapp.com/curriculum-vitae
+Jorge Blanco Suarez, dev7, dev4, Duronis
+
 
 ### Contributing
 Give instructions on how to participate in your project patches.
