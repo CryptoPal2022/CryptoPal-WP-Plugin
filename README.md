@@ -29,8 +29,7 @@ You must configure the plugin in order to function correctly.Go to Woocommerce -
 Download our plugin from wordpress.org, install it on your wordpress installation, configure it, and start shopping with crypto currency.
 
 ### Help
-	Explain which communication channels are available to request help. Communication
-channels with a proven track record are mailing lists, IRC channels, and forums. Also be sure to tell your more experienced users how and where to submit bugs or feature requests, possibly turning them into project participants.
+Communication channels with a proven track record are mailing lists, IRC channels, and forums. Also be sure to tell your more experienced users how and where to submit bugs or feature requests, possibly turning them into project participants.
 
 ### Credits (authors)
 Jorge Blanco Suarez, dev7, dev4, Duronis
